@@ -42,7 +42,7 @@ This project provides a Python function to convert 12-hour time (e.g., "8:30 am"
 
 ## Usage
 
-1. mport the convert_to_24_hour function from the modules.app module:
+1. Import the convert_to_24_hour function from the modules.app module:
 
     ```python
     from modules.app import convert_to_24_hour
@@ -60,7 +60,6 @@ Consider writing tests for your code using a testing framework like pytest. Orga
 
 To run tests, use the following command:
 
-    ```bash
     pytest
 
 
